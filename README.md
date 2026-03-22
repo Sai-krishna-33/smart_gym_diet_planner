@@ -31,7 +31,7 @@ Maintaining a consistent diet is the hardest part of any fitness journey. Users 
 * **Responsive Tables:** Dark-themed, high-readability tables for nutritional data.
 
 ---
-
+# Screenshots of my Project
 
 <img width="1919" height="831" alt="Screenshot 2026-03-20 131154" src="https://github.com/user-attachments/assets/a3ad70ed-669a-47b2-9cf3-0b273c838ea1" />
 
@@ -110,3 +110,12 @@ streamlit run app.py
 ```
 
 ---
+
+
+# Video of my Project
+
+
+https://github.com/user-attachments/assets/408d10d6-8100-4746-bd42-3527d1c15fc1
+
+
+
