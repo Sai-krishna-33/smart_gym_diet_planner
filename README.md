@@ -44,6 +44,13 @@ Maintaining a consistent diet is the hardest part of any fitness journey. Users 
 
 
 
+<img width="1919" height="833" alt="Screenshot 2026-03-20 131331" src="https://github.com/user-attachments/assets/a6b0dfc8-ae3e-4140-86e2-20f753d2f928" />
+
+
+
+
+
+<img width="1917" height="829" alt="Screenshot 2026-03-20 131359" src="https://github.com/user-attachments/assets/bc72158a-4a23-4e77-b313-195b24ea38bc" />
 
 
 
