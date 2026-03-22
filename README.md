@@ -38,6 +38,17 @@ Maintaining a consistent diet is the hardest part of any fitness journey. Users 
 
 
 
+<img width="1919" height="829" alt="Screenshot 2026-03-20 131226" src="https://github.com/user-attachments/assets/bfa4146a-67c0-4c18-bbe4-c4f8debf19ef" />
+
+
+
+
+
+
+
+
+
+
 
 ## 📂 Folder Structure
 ```bash
