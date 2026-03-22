@@ -1,11 +1,3 @@
-### smart_gym_diet_planner
-
-Since you have the final `app.py` ready, the next step is to package it professionally for GitHub. A high-quality README makes your project stand out to recruiters and collaborators.
-
-Here is the complete **README.md** content tailored specifically to your **Smart Gym Diet Planner**.
-
----
-
 # 🚀 Smart Gym Diet Planner
 
 An AI-powered web application that helps fitness enthusiasts plan their nutrition using BMR calculations and real-time Image Recognition to analyze food intake.
@@ -39,6 +31,13 @@ Maintaining a consistent diet is the hardest part of any fitness journey. Users 
 * **Responsive Tables:** Dark-themed, high-readability tables for nutritional data.
 
 ---
+
+
+<img width="1919" height="831" alt="Screenshot 2026-03-20 131154" src="https://github.com/user-attachments/assets/a3ad70ed-669a-47b2-9cf3-0b273c838ea1" />
+
+
+
+
 
 ## 📂 Folder Structure
 ```bash
@@ -93,6 +92,3 @@ streamlit run app.py
 ```
 
 ---
-
-### 🌟 Next Step for You:
-To make this GitHub-ready, you need to create a `requirements.txt` file. **Would you like me to generate the content for that file based on your code?**
