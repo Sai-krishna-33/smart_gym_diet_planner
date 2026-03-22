@@ -72,7 +72,6 @@ Smart-Gym-Diet-Planner/
 ## 📄 File Descriptions
 * **`app.py`**: The core logic of the application, including the CSS styling, BMR calculation engine, and the TensorFlow model integration.
 * **`food.csv`**: The nutritional backbone. *Ensure this file has columns: Food, Calories, Protein, Fat, Carbs.*
-* **`users.csv`**: Automatically generated file that stores usernames and passwords.
 * **`requirements.txt`**: Contains the necessary libraries (`streamlit`, `pandas`, `tensorflow`, `Pillow`, `numpy`).
 
 ---
