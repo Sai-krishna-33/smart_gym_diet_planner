@@ -63,7 +63,6 @@ Smart-Gym-Diet-Planner/
 │
 ├── app.py              # Main Streamlit application code
 ├── food.csv            # Dataset containing Food Names, Calories, and Macros
-├── users.csv           # Local database for user authentication
 ├── requirements.txt    # List of Python dependencies
 └── README.md           # Project documentation
 ```
